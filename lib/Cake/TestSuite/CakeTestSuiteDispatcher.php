@@ -16,7 +16,7 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-require_once '/usrl/local/bin/phpunit.phar';
+require_once '/usr/local/bin/phpunit';
 
 define('CORE_TEST_CASES', CAKE . 'Test' . DS . 'Case');
 define('APP_TEST_CASES', TESTS . 'Case');
