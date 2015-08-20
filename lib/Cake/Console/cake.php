@@ -17,8 +17,6 @@
  * @license       http://www.opensource.org/licenses/mit-license.php MIT License
  */
 
-require_once '/usr/local/bin/phpunit';
-
 if (!defined('DS')) {
 	define('DS', DIRECTORY_SEPARATOR);
 }
