@@ -7,4 +7,9 @@ class PartTest extends CakeTestCase{
 
         $this->assertEqual(true, true);
     }
+
+    public function testPropogate(){
+
+        $this->assertEqual(true, true);
+    }
 }
